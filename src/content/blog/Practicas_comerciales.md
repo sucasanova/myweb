@@ -20,6 +20,4 @@ Como responsable de la creación del tablero interactivo y la revisión de la re
 ¿Qué es? Este proyecto del Indecopi tiene como objetivo proteger a los consumidores que compran productos y servicios en línea. Realizamos monitoreos en las páginas web de las principales empresas participantes en eventos como CYBER WOW para recopilar prácticas comerciales que podrían influir en el comportamiento del consumidor al proporcionar datos personales, realizar compras o aceptar cargos adicionales.
 
 Mayor informacion en: 
-- https://app.powerbi.com/view?r=eyJrIjoiZTY3NWVhZTEtMWUzZS00ODVlLTgwYzEtMmQxZmE3MGIwOGU1IiwidCI6IjgwZDQ5YjM4LTkwYzYtNDJkYi04MDkwLTVkZGY4OTE5YjU2YiIsImMiOjR9
-
-
+- https://bit.ly/Practicas_comerciales
